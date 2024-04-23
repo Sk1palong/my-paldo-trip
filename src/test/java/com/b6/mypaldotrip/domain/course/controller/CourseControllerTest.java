@@ -90,7 +90,7 @@ class CourseControllerTest extends BaseCourseTest {
     class 조회 {
 
         @Test
-        @DisplayName("목록조회")
+        @DisplayName("목록 조회")
         void 목록조회성공() throws Exception {
             // given
             int page = 1;
